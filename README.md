@@ -24,7 +24,7 @@ Follow these steps to set up the project locally.
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/mosaid97/medix-tract.git](https://github.com/mosaid97/medix-tract.git)
-    cd medi-extract
+    cd medix-tract
     ```
 
 2.  **Create and activate a Python virtual environment:**
